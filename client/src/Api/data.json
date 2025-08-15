@@ -1,0 +1,67 @@
+[
+      {
+        "id": 1,
+        "title": "Modern 5-Bedroom Villa in Beverly Hills",
+        "price": "$1,500,000",
+        "location": "Beverly Hills, CA",
+        "image": "http://localhost:5173/image/property1.jpg",
+        "description": "Luxury Villa with Ocean View"
+      },
+      {
+        "id": 2,
+        "title": "3-Bedroom Family Home in Austin, TX",
+        "price": "$450,000",
+        "location": "Austin, TX",
+        "image": "http://localhost:5173/image/property2.jpg",
+        "description": "Cozy Suburban Home"
+      },
+      {
+        "id": 3,
+        "title": "Luxury Penthouse in Downtown New York",
+        "price": "$2,300,000",
+        "location": "Manhattan, NY",
+        "image": "image/property3.png",
+        "description": "High-Rise Penthouse"
+      },
+      {
+        "id": 4,
+        "title": "Spacious 4-Bedroom Townhouse in Miami",
+        "price": "$780,000",
+        "location": "Miami, FL",
+        "image": "http://localhost:5173/image/property4.jpg",
+        "description": "Modern Townhouse"
+      },
+      {
+        "id": 5,
+        "title": "2-Bedroom Apartment in Chicago",
+        "price": "$320,000",
+        "location": "Chicago, IL",
+        "image": "image/property5.jpg",
+        "description": "Affordable Apartment"
+      },
+      {
+        "id": 6,
+        "title": "Rustic 6-Bedroom Estate in Napa Valley",
+        "price": "$2,700,000",
+        "location": "Napa Valley, CA",
+        "image": "http://localhost:5173/image/property6.jpg",
+        "description": "Countryside Estate"
+      },
+      {
+        "id": 7,
+        "title": "Studio Apartment in Los Angeles",
+        "price": "$280,000",
+        "location": "Los Angeles, CA",
+        "image": "http://localhost:5173/image/property7.jpg",
+        "description": "Modern Studio Apartment"
+      },
+      {
+        "id": 8,
+        "title": "2-Bedroom Beachfront Bungalow in Hawaii",
+        "price": "$1,100,000",
+        "location": "Maui, Hawaii",
+        "image": "http://localhost:5173/image/property8.jpg",
+        "description": "Beachfront Bungalow"
+      }
+]
+  
